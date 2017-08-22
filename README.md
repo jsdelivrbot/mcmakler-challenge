@@ -1,25 +1,5 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Just a couple notes to the developers looking at the code 
+- Couldn't find the data in the API for "Mieten" and "Kaufen" (I believe this means to rent or buy) 
+- Not quite sure if I put the correct price 
+- If I had more time I would of used the bootstrap grid system and put the styles in a stylesheet 
+- To start the app, clone/download then npm start (localhost:8080)

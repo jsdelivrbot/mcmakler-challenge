@@ -56,7 +56,7 @@ const ApartmentItem = (props) => {
                 <p style={styles.ApartmentLocation}>{`${props.address.number} ${props.address.street} / ${props.address.city}`}</p>
                 <div style={styles.ApartmentInfoContainer2}>
                     <p style={styles.ApartmentPrice}>{props.price} €</p>
-                    <p style={styles.ApartmentSpace}>ab {Math.round(props.space)}m²</p>
+                    <p style={styles.ApartmentSpace}>ab {Math.round(props.space)} m²</p>
                     <p style={styles.ApartmentRooms}>{props.numberOfRooms} Zimmer</p>
                 </div>
             </div>

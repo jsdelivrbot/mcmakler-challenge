@@ -1,7 +1,6 @@
 import axios from 'axios'
 
 // Types
-export const GET_VACANT_APARTMENTS = 'GET_VACANT_APARTMENTS'
 export const SET_VACANT_APARTMENTS = 'SET_VACANT_APARTMENTS'
 export const LOADING = 'LOADING'
 

@@ -1,4 +1,5 @@
 Just a couple notes to the developers looking at the code 
+- Used a React/Redux boiler plate, https://github.com/StephenGrider/ReduxSimpleStarter
 - Couldn't find the data in the API for "Mieten" and "Kaufen" (I believe this means to rent or buy) 
 - Not sure how the price should be formatted
 - If given more time I would probably use the bootstrap grid system and properly place the styles in a stylesheet
